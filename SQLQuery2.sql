@@ -1,0 +1,1 @@
+﻿update tb_groupMember set grpm_stdName='zaman',grpm_stdId='17-31883-1' where grpm_serial=17;
